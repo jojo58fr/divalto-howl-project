@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b397f4b3554e3314b8a37ff5743643cd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Porter Sans Block
+  fontNames:
+  - Porter Sans Block
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 122ff1f9b92077b448361d761f765987, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
